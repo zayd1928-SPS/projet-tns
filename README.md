@@ -30,12 +30,12 @@ Running the Jupyter Notebook
 jupyter notebook "PROJET TNS.ipynb"
 Or run individual exercises as Python scripts (if you create separate .py files).
 
-📊 Results Summary
+ Results Summary
 Exercise	Signal Frequencies	Sampling Rate	Aliasing?	Recovery
-1	1 kHz	8 kHz	❌ No	✅ Perfect
-2	2 kHz, 3 kHz	8 kHz	❌ No	✅ Perfect
-3	2 kHz, 5 kHz	8 kHz	⚠ Yes (5kHz→3kHz)	❌ Corrupted
-4	DC, 2-6 kHz	8 kHz	⚠ Yes (6kHz→2kHz)	❌ Corrupted
+1	1 kHz	8 kHz	 No	 Perfect
+2	2 kHz, 3 kHz	8 kHz	 No	 Perfect
+3	2 kHz, 5 kHz	8 kHz	⚠ Yes (5kHz→3kHz)	 Corrupted
+4	DC, 2-6 kHz	8 kHz	⚠ Yes (6kHz→2kHz)	 Corrupted
  Key Concepts Covered
 Nyquist-Shannon Sampling Theorem
 Minimum sampling rate: fs ≥ 2 * fmax
@@ -58,12 +58,12 @@ README.md - This documentation file
  What Each Exercise Demonstrates
 Each exercise generates visualizations showing:
 
-✅ Original signal spectrum (frequency domain)
-✅ Sampled signal spectrum with replicas
-✅ Recovered signal spectrum after filtering
-✅ Aliasing effects (where applicable)
-✅ Detailed mathematical analysis
-👤 Author
+ Original signal spectrum (frequency domain)
+ Sampled signal spectrum with replicas
+ Recovered signal spectrum after filtering
+ Aliasing effects (where applicable)
+ Detailed mathematical analysis
+ Author
 ZAYD FARAH
 
 GitHub: @zayd1928-SPS
