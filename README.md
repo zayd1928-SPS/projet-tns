@@ -52,7 +52,7 @@ Python NumPy Matplotlib Jupyter
 
  Repository Contents
 PROJET TNS Zayd.ipynb - Jupyter notebook with all exercises and solutions
-sousou.pdf - Original exercise sheet from ENSA
+Original exercise sheet from ENSA
 README.md - This documentation file
 .gitignore - Python gitignore configuration
  What Each Exercise Demonstrates
