@@ -34,8 +34,8 @@ Or run individual exercises as Python scripts (if you create separate .py files)
 Exercise	Signal Frequencies	Sampling Rate	Aliasing?	Recovery
 1	1 kHz	8 kHz	 No	 Perfect
 2	2 kHz, 3 kHz	8 kHz	 No	 Perfect
-3	2 kHz, 5 kHz	8 kHz	⚠ Yes (5kHz→3kHz)	 Corrupted
-4	DC, 2-6 kHz	8 kHz	⚠ Yes (6kHz→2kHz)	 Corrupted
+3	2 kHz, 5 kHz	8 kHz	 Yes (5kHz→3kHz)	 Corrupted
+4	DC, 2-6 kHz	8 kHz	 Yes (6kHz→2kHz)	 Corrupted
  Key Concepts Covered
 Nyquist-Shannon Sampling Theorem
 Minimum sampling rate: fs ≥ 2 * fmax
